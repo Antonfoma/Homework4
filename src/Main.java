@@ -12,7 +12,7 @@ public class Main {
         }
 //     Задание  2
 
-        int ageKid = 5;
+        int ageKid = ;
         if ( ageKid >= 7 ) {
             System.out.println   (" Ребенок ходит в школу");
         } else {
